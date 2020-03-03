@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25c7e4f7-f7eb-41f1-aa77-2f2404d34ee6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y8wJzNKUoezJ12T5xFacugp4gx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Python_01\job_interview_anotherAttempt_toScreenshot\tests\home" />
+      <recent name="C:\Users\User\Desktop\Python_01\job_interview_anotherAttempt_toScreenshot\base" />
+      <recent name="C:\Users\User\Desktop\Python_01\job_interview_anotherAttempt_toScreenshot\tests" />
+      <recent name="C:\Users\User\Desktop\Python_01\job_interview_anotherAttempt_toScreenshot\utilities" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Python_01\job_interview_anotherAttempt_toScreenshot\tests" />
+      <recent name="C:\Users\User\Desktop\Python_01\job_interview_anotherAttempt_toScreenshot\tests\home" />
+      <recent name="C:\Users\User\Desktop\Python_01\job_interview_anotherAttempt_toScreenshot\pages\home" />
+      <recent name="C:\Users\User\Desktop\Python_01\job_interview_anotherAttempt_toScreenshot\pages" />
+      <recent name="C:\Users\User\Desktop\Python_01\job_interview_anotherAttempt_toScreenshot\utilities" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25c7e4f7-f7eb-41f1-aa77-2f2404d34ee6" name="Default Changelist" comment="" />
+      <created>1582337461392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582337461392</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3" y="0" width="1539" height="799" key="dock-window-1" timestamp="1582946941495">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3" y="0" width="1539" height="799" key="dock-window-1/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1582946941495" />
+    <state x="-1709" y="18" width="1539" height="1078" key="dock-window-2" timestamp="1582998660039">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1709" y="18" width="1539" height="1078" key="dock-window-2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1582998660039" />
+    <state x="86" y="178" width="787" height="670" key="find.popup" timestamp="1582756921244">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="86" y="178" width="787" height="670" key="find.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1582756921244" />
+  </component>
+</project>

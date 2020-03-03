@@ -1,0 +1,2 @@
+let ime= "I dont know if this shit works"
+console.log(ime)
